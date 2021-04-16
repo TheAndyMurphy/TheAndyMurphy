@@ -7,3 +7,4 @@
 - Gatsby
 - Next
 - Styled-Components
+- Obsessively watching dog videos on TikTok
