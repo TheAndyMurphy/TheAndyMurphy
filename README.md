@@ -1,10 +1,10 @@
 ## @TheAndyMurphy
-####  Procrastinating with Creativity
+####  Stuck on Autopilot
 
 👀 Interested in: 
 - Javascript
 - React
 - Gatsby
-- Next
-- Styled-Components
+- Styled-components
+- Framer-motion
 - Obsessively watching dog videos on TikTok
